@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hello everyone!
+Ahmad here, i like C++ and Python.
